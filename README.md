@@ -21,7 +21,7 @@ A robust web dashboard for backing up Pterodactyl/Wings node Docker volumes.
 ```bash
 # Clone and install dependencies
 git clone https://github.com/wylayy/PterodactylNodeBackup.git
-cd PterodactylNodeBackup-main
+cd PterodactylNodeBackup
 npm install
 ```
 
